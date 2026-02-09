@@ -286,6 +286,7 @@
     "admin_settings": "Admin settings",
     "external_apis": "External APIs",
     "cron_jobs": "Cron Jobs",
+    "data_not_received_vehicles": "Data not received Vehicles",
     "logout": "Logout",
     "user_notification_details": "User Notification Details",
     "user_notification_details_description": "Manage your notification preferences and settings."
