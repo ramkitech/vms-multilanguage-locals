@@ -1240,7 +1240,8 @@
     "disable_now": "Disable Now",
     "enable_now": "Enable Now",
     "enabled": "Enabled",
-    "disabled": "Disabled"
+    "disabled": "Disabled",
+    "duration": "Duration (HH:MM:SS)"
   },
   "p_notifications": {
     "module": "Module",
