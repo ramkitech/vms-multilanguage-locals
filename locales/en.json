@@ -1238,7 +1238,9 @@
     "success_details": "Success Details",
     "error_details": "Error Details",
     "disable_now": "Disable Now",
-    "enable_now": "Enable Now"
+    "enable_now": "Enable Now",
+    "enabled": "Enabled",
+    "disbaled": "Disbaled"
   },
   "p_notifications": {
     "module": "Module",
