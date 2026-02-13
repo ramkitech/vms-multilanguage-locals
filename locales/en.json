@@ -2582,7 +2582,9 @@
     "is_primary": "Primary",
     "notes": "Notes",
     "student_transport_plan_type_change_history": "Transport Plan Change History",
-    "stop_change_request": "Stop Change Request"
+    "stop_change_request": "Stop Change Request",
+    "pickup_details": "Pickup Details",
+    "drop_details": "Drop Details"
   },
   "p_fleet_bus_student_guardian": {
     "guardian_details": "Guardian Details",
