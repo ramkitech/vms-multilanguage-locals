@@ -623,7 +623,10 @@
     "student_list": "Student List",
     "bus_stops": "Bus Stops",
     "bus_routes": "Bus Routes",
-    "bus_schedules": "Bus Schedules"
+    "bus_schedules": "Bus Schedules",
+    "bus_stop": "Bus Stop",
+    "bus_route": "Bus Route",
+    "bus_schedule": "Bus Schedule"
   },
   "menu_trips": {
     "trip_management": "Trip Management",
