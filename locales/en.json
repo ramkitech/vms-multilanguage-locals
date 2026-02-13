@@ -2531,6 +2531,9 @@
     "task_notes": "Task Notes",
     "task_total_cost": "Task Total Cost"
   },
+  "p_bus_stop": {
+    "bus_stop": "Bus Stop"
+  },
   "p_fleet_bus_student": {
     "organisation_details": "Organisation Details",
     "student_details": "Student Details",
