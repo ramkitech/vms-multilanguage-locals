@@ -485,8 +485,7 @@
     "master_expense_fuel_company": "Fuel Company",
     "master_expense_vendor_tag": "Vendor Tag",
     "master_trip": "Master Trip",
-    "master_trip_trip_party_type": "Trip Party Type",
-    "fleet_vehicle_incident": "Vehicle Incident"
+    "master_trip_trip_party_type": "Trip Party Type"
   },
   "menu_gps": {
     "main_module": "Main Module",
