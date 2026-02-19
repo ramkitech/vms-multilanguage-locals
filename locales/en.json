@@ -2643,5 +2643,25 @@
     "route_stops": "Route Stops",
     "pickup_path": "Pickup Path",
     "drop_path": "Drop Path"
+  },
+  "p_fleet_bus_schedule": {
+    "schedule_name": "Schedule Name",
+    "schedule_status": "Schedule Status",
+    "is_stops_finalized": "Is Stops Finalised",
+    "schedule_type": "Schedule Type",
+    "route": "Route",
+    "start_hour": "Start Hour",
+    "start_minute": "Start Minute",
+    "end_hour": "End Hour",
+    "end_minute": "End Minute",
+    "schedule_plan_start_date": "Schedule Plan Start Date",
+    "schedule_plan_end_date": "Schedule Plan End Date",
+    "sunday": "Sunday",
+    "monday": "Monday",
+    "tuesday": "Tuesday",
+    "wednesday": "Wednesday",
+    "thursday": "Thursday",
+    "friday": "Friday",
+    "saturday": "Saturday"
   }
 }
