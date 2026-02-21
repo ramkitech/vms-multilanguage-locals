@@ -1178,6 +1178,16 @@
     "admin": "Admin Name",
     "admin_action": "Admin Action"
   },
+  "p_invoice": {
+    "invoice_number": "Invoice Number",
+    "invoice_month_year": "Invoice Month / Year",
+    "invoice_amount": "Invoice Amount",
+    "invoice_generate_date": "Invoice Generate Date",
+    "invoice_due_date": "Invoice Due Date",
+    "payment_date": "Payment Date",
+    "invoice_status": "Invoice Status",
+    "invoice_files": "Invoice Files"
+  },
   "p_admin": {
     "admin_name": "Admin Name",
     "email": "Email",
@@ -2139,7 +2149,9 @@
     "graph": "Graph",
     "vehicle_summary": "Vehicle Summary",
     "day_summary": "Day Summary",
-    "driver_summary": "Driver Summary"
+    "driver_summary": "Driver Summary",
+    "fuel_graph": "Fuel Graph",
+    "section": "Section"
   },
   "gps_sensors": {
     "temperature": {
